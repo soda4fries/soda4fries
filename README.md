@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Mohammad Mahdinur Rahman
+# Hi there! 👋 I'm Soda
 
 And this was generate by Claude (Best AI) from my CV
 
