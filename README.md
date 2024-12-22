@@ -66,7 +66,7 @@ And this was generate by Claude (Best AI) from my CV
 ![V2Ray](https://img.shields.io/badge/V2Ray-007ACC?style=for-the-badge)
 ![Trojan](https://img.shields.io/badge/Trojan-FF6B6B?style=for-the-badge)
 
-### Machine Learning Expertise 🤖
+### Machine Learning 🤖
 - **Vision & Generation Models**
   ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge)
   ![UNET](https://img.shields.io/badge/UNET-3366CC?style=for-the-badge)
