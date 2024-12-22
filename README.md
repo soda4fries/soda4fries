@@ -79,6 +79,3 @@ And this was generate by Claude (Best AI) from my CV
   ![Few Shot Learning](https://img.shields.io/badge/Few%20Shot%20Learning-FF69B4?style=for-the-badge)
   ![MAML](https://img.shields.io/badge/MAML-9146FF?style=for-the-badge)
   ![Diffusion Models](https://img.shields.io/badge/Diffusion%20Models-FF6B6B?style=for-the-badge)
-
----
-⭐️ From Soda4fries
